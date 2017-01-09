@@ -168,7 +168,7 @@ return [
          */
         Jumpgate\Core\Providers\ViewServiceProvider::class,
         Jumpgate\Menu\MenuServiceProvider::class,
-        Jumpgate\Users\Providers\UsersServiceProvider::class,
+        JumpGate\Users\Providers\UsersServiceProvider::class,
 
         /*
          * Application Service Providers...
